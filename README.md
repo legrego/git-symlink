@@ -1,2 +1,2 @@
 # Test Repo
-Contains a symlink to test how clients respond to it
+Contains various symlinks to test how clients respond to it
