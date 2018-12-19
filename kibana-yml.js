@@ -1,1 +1,1 @@
-../../../../../../../../config/kibana.yml
+../../../../../../../config/kibana.yml
