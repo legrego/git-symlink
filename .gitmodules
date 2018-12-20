@@ -1,3 +1,0 @@
-[submodule "homeassistant-elasticsearch"]
-	path = homeassistant-elasticsearch
-	url = https://github.com/legrego/homeassistant-elasticsearch
